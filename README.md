@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## String Matching
 |  |
 | ------- |
