@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Array
 |  |
 | ------- |
@@ -104,8 +105,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
