@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2235-add-two-integers](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 ## Array
 |  |
 | ------- |
