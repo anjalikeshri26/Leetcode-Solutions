@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1470-shuffle-the-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
