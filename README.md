@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3270-find-the-key-of-the-numbers](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
