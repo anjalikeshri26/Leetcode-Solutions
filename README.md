@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2469-convert-the-temperature](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 ## Array
 |  |
 | ------- |
