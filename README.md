@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
