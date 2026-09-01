@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
+| [3908-valid-digit-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3908-valid-digit-number) |
 ## Array
 |  |
 | ------- |
