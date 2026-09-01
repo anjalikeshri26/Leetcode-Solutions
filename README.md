@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
