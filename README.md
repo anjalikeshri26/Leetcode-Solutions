@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
