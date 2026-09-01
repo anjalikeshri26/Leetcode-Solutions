@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1678-goal-parser-interpretation) |
 ## String Matching
 |  |
 | ------- |
