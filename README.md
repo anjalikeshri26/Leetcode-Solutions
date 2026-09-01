@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3360-stone-removal-game](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
