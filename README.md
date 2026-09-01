@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
