@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3024-type-of-triangle](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2600-k-items-with-the-maximum-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
