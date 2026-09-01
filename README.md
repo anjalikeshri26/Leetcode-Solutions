@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3959-check-good-integer) |
 ## Array
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3959-check-good-integer) |
 ## Number Theory
 |  |
 | ------- |
