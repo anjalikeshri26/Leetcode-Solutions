@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
 | ------- |
