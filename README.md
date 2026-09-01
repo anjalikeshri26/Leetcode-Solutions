@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1837-sum-of-digits-in-base-k](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 ## Array
 |  |
 | ------- |
