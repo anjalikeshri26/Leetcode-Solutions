@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
