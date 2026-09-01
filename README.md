@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 ## Array
 |  |
 | ------- |
