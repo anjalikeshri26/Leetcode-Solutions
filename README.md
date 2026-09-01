@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String Matching
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
