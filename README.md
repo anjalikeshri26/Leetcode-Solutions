@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
 | ------- |
