@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
