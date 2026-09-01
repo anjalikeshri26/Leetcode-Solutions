@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3285-find-indices-of-stable-mountains](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 ## Two Pointers
 |  |
 | ------- |
