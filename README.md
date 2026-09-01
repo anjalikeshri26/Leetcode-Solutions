@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
