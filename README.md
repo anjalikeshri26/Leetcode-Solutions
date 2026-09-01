@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
