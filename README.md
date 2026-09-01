@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2651-calculate-delayed-arrival-time](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 ## Array
 |  |
 | ------- |
