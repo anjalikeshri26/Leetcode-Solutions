@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
