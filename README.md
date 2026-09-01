@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3492-maximum-containers-on-a-ship](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 ## Array
 |  |
 | ------- |
