@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## String Matching
 |  |
 | ------- |
