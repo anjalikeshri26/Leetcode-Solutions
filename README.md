@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
+| [3099-harshad-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3099-harshad-number) |
 ## Array
 |  |
 | ------- |
