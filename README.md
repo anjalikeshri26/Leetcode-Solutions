@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
+| [3895-count-digit-appearances](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3895-count-digit-appearances](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
 |  |
 | ------- |
