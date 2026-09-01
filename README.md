@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3921-score-validator](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3921-score-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3921-score-validator) |
 ## String Matching
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3921-score-validator) |
 ## Number Theory
 |  |
 | ------- |
