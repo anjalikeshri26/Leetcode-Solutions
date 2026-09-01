@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
