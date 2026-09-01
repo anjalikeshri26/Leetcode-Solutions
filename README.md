@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
