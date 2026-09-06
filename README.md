@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0263-ugly-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0283-move-zeroes) |
